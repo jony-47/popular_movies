@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Popular Movies</string>
+    <string name="mark_as_favorite_btn">MARK AS \nFAVORITE</string>
+    <string name="trailers">Trailers:</string>
+    <string name="something_for_the_stage_two">something for the stage two</string>
+    <string name="popular_movie">Popular Movie</string>
+    <string name="top_rated">Top_rated</string>
+    <string name="upcoming_movies">Upcoming Movies</string>
+</resources>
